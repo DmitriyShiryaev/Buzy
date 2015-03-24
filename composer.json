@@ -1,5 +1,5 @@
 {
-    "name": "grom/buzy",
+    "name": "dshiryaev/buzy",
     "description": "Web client on top of Symfony2 HTTP foundation",
     "require": {
         "symfony/http-foundation": "~2.1"
